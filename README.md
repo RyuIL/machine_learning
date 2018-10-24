@@ -5,7 +5,7 @@
 <img src="/resource/graph/handwrite/hiddennode.jpg" width="245">
 <img src="/resource/graph/handwrite/learningrate.jpg" width="245">
 <br>
-<img src="/resource/image/handwrite.jpg" width="245">
+<img src="/resource/image/handwrite.JPG" width="245">
 <br>
 학습데이터 : 60000개<br>
 테스트 데이터 : 10000개 <br>
